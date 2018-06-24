@@ -282,6 +282,19 @@
       }
     ]
   },
+  "file_type_cucumber": {
+    "color": "green",
+    "syntaxes": [
+      {
+        "name": "Cucumber",
+        "scope": "text.gherkin.feature"
+      },
+      {
+        "name": "Cucumber Steps",
+        "scope": "source.ruby.rspec.cucumber.steps"
+      }
+    ]
+  },
   "file_type_dart": {
     "color": "cyan",
     "syntaxes": [
